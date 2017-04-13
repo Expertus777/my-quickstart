@@ -20,7 +20,7 @@ const HEROES: Hero[] = [
 
 
 @Component({
-  select: 'my-app',
+  selector: 'my-app',
   template: `
     <h1>{{title}}</h1>
   `
