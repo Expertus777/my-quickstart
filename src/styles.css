@@ -7,3 +7,13 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
 }
+
+
+button{
+  background: #45c347;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  display: block;
+  cursor: pointer;
+}
